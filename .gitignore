@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Mediul virtual
+venv/
+.venv/
+env/
+
+# IDE-uri
+.vscode/
+.idea/
+
+# Arhive
+*.zip
+*.rar
